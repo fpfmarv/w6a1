@@ -1,0 +1,19 @@
+@media screen and (max-width: 700px) {
+  .container {
+    display: grid;
+    width: 250px;
+    height: 1200px;
+  }
+
+  .container button {
+    margin-bottom: 50px;
+  }
+
+  .sedans {
+    border-radius: 10px 10px 0px 0px;
+  }
+
+  .luxury {
+    border-radius: 0px 0px 10px 10px;
+  }
+}
