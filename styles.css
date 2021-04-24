@@ -20,6 +20,8 @@
 .container img {
   margin: 25px 0 0 25px;
   opacity: 50%;
+  width: 64px;
+  height: 40px;
 }
 
 .container h1 {
